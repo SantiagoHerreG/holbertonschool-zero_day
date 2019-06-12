@@ -1,2 +1,2 @@
-#README file for the fourth porject Git
-*First task*
+#Readme document for the first project
+*This project is intended to teach us git and the use of git hub*
